@@ -1,0 +1,6 @@
+@PatikaWeek12PracticeCodeFirstBasic_HostAddress = http://localhost:5186
+
+GET {{PatikaWeek12PracticeCodeFirstBasic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
